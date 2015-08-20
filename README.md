@@ -1,8 +1,9 @@
 # cmu-tshirt-generator
 
-Code (messily and hastily) written by Nicolas Kim, graduate student in the
-Department of Statistics at Carnegie Mellon University (Pittsburgh, PA, blah
-blah). 
+![alt tag](CMU.png)
+
+Code written by Nicolas Kim, graduate student in the Department of Statistics at
+Carnegie Mellon University (Pittsburgh, PA, blah blah). 
 
 You can specify a filename for a PNG file you want to "data-ify." 
 
