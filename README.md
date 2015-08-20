@@ -8,7 +8,9 @@ To:
 
 ![alt tag](cmulogo-seed13.png)
 
---- About ---
+
+About
+-----
 
 Code written by Nicolas Kim, graduate student in the Department of Statistics at
 Carnegie Mellon University (Pittsburgh, PA, blah blah). 
@@ -21,7 +23,8 @@ some sensible ones and the "CMU" wordmark.
 Works with PNG image files. 
 
 
---- Parameters ---
+Parameters
+----------
 
 1. filename - a string, i.e. "CMU.png".
 
