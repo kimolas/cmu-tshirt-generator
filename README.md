@@ -1,6 +1,14 @@
 # cmu-tshirt-generator
 
+Go from: 
+
 ![alt tag](CMU.png)
+
+To: 
+
+![alt tag](cmulogo-seed13.png)
+
+--- About ---
 
 Code written by Nicolas Kim, graduate student in the Department of Statistics at
 Carnegie Mellon University (Pittsburgh, PA, blah blah). 
